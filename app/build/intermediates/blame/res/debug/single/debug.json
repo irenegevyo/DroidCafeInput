@@ -28,12 +28,12 @@
         "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
-        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -54,6 +54,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_status_order.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_status_order.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
@@ -160,6 +164,10 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_status_favorite.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-mdpi\\ic_status_favorite.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -264,6 +272,10 @@
         "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_status_info.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_status_info.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
@@ -316,12 +328,12 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\9d958188d62b319f7f19d1f189649349\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
@@ -390,6 +402,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b160abc2c597ca88644bca1732f188ad\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_status_info.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_status_info.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -562,6 +578,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_status_order.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_status_order.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
@@ -1160,6 +1180,10 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_status_order.xml.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_status_order.xml"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\color-v23\\abc_tint_edittext.xml"
     },
@@ -1172,12 +1196,12 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b160abc2c597ca88644bca1732f188ad\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1196,16 +1220,16 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
-        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\layout\\design_bottom_navigation_item.xml"
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
@@ -1300,6 +1324,10 @@
         "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_status_order.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-mdpi\\ic_status_order.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\color\\abc_primary_text_material_light.xml"
     },
@@ -1374,6 +1402,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\b160abc2c597ca88644bca1732f188ad\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_status_order.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_order.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -1530,6 +1562,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_status_order.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-xhdpi\\ic_status_order.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1926,6 +1962,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_status_favorite.xml.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_status_favorite.xml"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
@@ -2428,6 +2468,10 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_status_info.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_status_info.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\anim\\abc_popup_exit.xml"
     },
@@ -2492,8 +2536,16 @@
         "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_status_info.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-xhdpi\\ic_status_info.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_status_favorite.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-xhdpi\\ic_status_favorite.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -2944,6 +2996,10 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_status_favorite.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_status_favorite.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -3076,6 +3132,10 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_status_favorite.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_status_favorite.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\layout\\abc_list_menu_item_radio.xml"
     },
@@ -3194,6 +3254,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_status_order.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_status_order.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
@@ -3436,6 +3500,14 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_status_info.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_info.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_status_info.xml.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_status_info.xml"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
@@ -3484,6 +3556,10 @@
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_status_favorite.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-xxhdpi\\ic_status_favorite.png"
+    },
+    {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -3518,6 +3594,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\afc1886f2d08cbec91b6e7c883355b18\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_status_favorite.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-hdpi\\ic_status_favorite.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -3698,6 +3778,10 @@
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ae6d09e034ce64908d405513d4f1eba3\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_status_info.png.flat",
+        "source": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\src\\main\\res\\drawable-mdpi\\ic_status_info.png"
     },
     {
         "merged": "D:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",

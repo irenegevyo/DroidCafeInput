@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 22 16:10:14 ICT 2019
+#Fri Feb 22 16:31:50 ICT 2019
 0.baseType=DIRECTORY
 0.base=D\:\\ITHB\\MIT\\Semester 6\\Pengembangan Aplikasi Mobile\\DroidCafeInput\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 0.path=classes.dex
